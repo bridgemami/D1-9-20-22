@@ -10,7 +10,7 @@ var string = 'hello world';
 var number = Number('5');
 var boolean = true;
 //complex data structure
-var array = [1, 2, 3, 4, 5];
+var array = [1, 'two', 3, 'four', 5];
 var object = {"word": "hello",
             "number": 6,
             "boolean": false};
