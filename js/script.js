@@ -2,8 +2,9 @@
 /* hello
 -
 world*/
-const mike= 'Michael Bridgeman';
+let mike= 'Michael Bridgeman';
 console.log(mike);
+console.log(mike.length);
 const salad='salad';
 console.log(salad);
 //primitive data structure
